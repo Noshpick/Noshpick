@@ -7,7 +7,7 @@ Web Devoloper
 I have been developing websites for about 3 years. I also work on FreeLance.
 
 * 🌍  I'm based in Vladivostok
-* ✉️  My Telegram [TG](https://t.me/lilsad_qq)
+* ✉️  My [Telegram](https://t.me/lilsad_qq)
 
 ### Skills
 
