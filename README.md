@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">A passionate frontend developer from Vladivostok</h3>
 
-- 🔭 I’m currently working on **CodeArena (Pet-project)**
+- 🔭 I’m currently working on **DarkWire (Pet-project)**
 
 - 🌱 I’m currently learning **NextJS, Vanilla JS, Angular**
 
