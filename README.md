@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noshpick?tab=repositories](https://github.com/Noshpick?tab=repositories)
 
-- 📫 How to reach me **tg - @kjiaxc**
-
 - ⚡ Fun fact **I am funny and picky about every little thing.**
 
 <h2 align="left">Programming Languages:</h2>
